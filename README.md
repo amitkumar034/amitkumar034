@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepalisohane&label=Profile%20views&color=0e75b6&style=flat" alt="amitkumar034" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkumar034&label=Profile%20views&color=0e75b6&style=flat" alt="amitkumar034" /> </p>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif?cid=790b76114f7b7d309acb7d39831f7f70ac021be9b1dbeae0&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on **Front-end projects**
